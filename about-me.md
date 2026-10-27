@@ -21,6 +21,20 @@ I want to develop practical skills, create useful projects, and explore how tech
 
 ## My Learning Goals
 
+## My GitHub Learning Journey
+
+I am learning how to use GitHub to organize files, document projects, and track changes.
+
+### Skills I Am Practising
+
+- Creating repositories
+- Writing and editing Markdown files
+- Organizing files into folders
+- Saving changes with commits
+
+### My Approach
+
+I believe in learning by doing, practising consistently, and improving one step at a time.
 1. Become comfortable using GitHub.
 2. Build projects that demonstrate my skills.
 3. Improve my technical and analytical abilities.
