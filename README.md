@@ -16,3 +16,20 @@ This is my first GitHub project. I am learning how to use GitHub, create reposit
 - Explore technology and innovation
 
 More projects coming soon!
+## Useful Learning Websites
+
+### Git and GitHub
+- [GitHub Skills](https://skills.github.com/) — Interactive lessons for learning GitHub
+- [GitHub Docs](https://docs.github.com/) — Official GitHub documentation
+
+### Cloud Computing
+- [AWS Skill Builder](https://skillbuilder.aws/) — Cloud learning resources
+- [Microsoft Learn](https://learn.microsoft.com/) — Technical learning paths
+
+### Web Development
+- [MDN Web Docs](https://developer.mozilla.org/) — HTML, CSS, JavaScript, and web development guides
+
+### Data Analysis
+- [Kaggle Learn](https://www.kaggle.com/learn) — Practical introductory data lessons
+
+I will use these resources to support my learning and future projects.
